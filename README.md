@@ -1,5 +1,6 @@
-# LightHouse in Canvas
+# [LightHouse in Canvas](https://svnth.fr/lab/lighthouse)
 Une **première expérimentation** du canvas, par Julien BRETECHER
+
 
 !["Pas si bien développé, mais avec amour"](banner.jpg)
 
